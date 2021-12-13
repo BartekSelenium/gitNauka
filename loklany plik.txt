@@ -1,2 +1,3 @@
 lokalny plik na komputerze
 - zniknely dane
+- git fetch ale lokalnie zmienilem sobie
